@@ -2,24 +2,23 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <item
-        android:id="@+id/menu_action_upload"
+    <item android:title="@string/upload_menu_text"
         android:icon="@drawable/ic_cloud_upload_white_24dp"
-        android:title="@string/action_upload"
-        app:showAsAction="always" />
+        android:id="@+id/menu_action_upload"
+        app:showAsAction="always"/>
 
     <item
         android:id="@+id/menu_action_send"
-        android:icon="@drawable/ic_send_white_24dp"
         android:title="@string/action_send"
-        app:showAsAction="always" />
+        android:icon="@drawable/ic_send_white_24dp"
+        app:showAsAction="always"/>
     <item
         android:id="@+id/menu_action_delete"
         android:icon="@drawable/ic_delete_white_24dp"
-        android:title="@string/action_delete"
-        app:showAsAction="always" />
+        android:title="@string/action_delete_picture"
+        app:showAsAction="always"/>
     <item
         android:id="@+id/menu_action_details"
         android:title="@string/show_picture_details"
-        app:showAsAction="never" />
+        app:showAsAction="never"/>
 </menu>

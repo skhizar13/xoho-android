@@ -3,7 +3,7 @@
     <external-path
         name="external_files"
         path="."/>
-    <cache-path
+    <external-cache-path
         name="cache"
-        path="/"/>
+        path="."/>
 </paths>

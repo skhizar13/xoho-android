@@ -1,0 +1,4 @@
+#Mon Jul 16 15:34:46 PKT 2018
+base.0=C\:\\Users\\sibta\\AndroidStudioProjects\\Cam v2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
