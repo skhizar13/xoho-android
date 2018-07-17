@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "832117342876",
+    "firebase_url": "https://cam-v2-99922.firebaseio.com",
+    "project_id": "cam-v2-99922",
+    "storage_bucket": "cam-v2-99922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832117342876:android:21d86fe0b8516bfa",
+        "android_client_info": {
+          "package_name": "com.xoho.xohocamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832117342876-5obh84h055qc6it8mmag51p08sc2c5l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xoho.xohocamera",
+            "certificate_hash": "85e0b1143d21283ebe362b50877e63f12a447092"
+          }
+        },
+        {
+          "client_id": "832117342876-ca3nod6nb22lk0g99o1ha570dkcn4ke6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtGtjPgQzPS7xpX1R_8aOIdXKBARp2Z7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832117342876-ca3nod6nb22lk0g99o1ha570dkcn4ke6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
