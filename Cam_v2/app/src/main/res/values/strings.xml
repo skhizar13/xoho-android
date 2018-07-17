@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Xoho Camera</string>
+    <string name="picture">View Image</string>
+    <string name="button_text_init">Take a Picture</string>
+    <string name="button_text_view">Open Pictures</string>
+    <string name="button_text_uploads">Open Uploads</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_picture_view">View Picture</string>
+    <string name="picture_view_content_desc">View Picture</string>
+    <string name="title_main_activity">Xoho Camera</string>
+    <string name="title_testing_activity">Phone Pictures</string>
+
+    <!-- Strings related to Toolbar Menu -->
+    <string name="action_add_picture">Add</string>
+    <string name="action_delete_picture">Delete</string>
+    <string name="action_share">Share</string>
+    <string name="action_send">Send</string>
+    <string name="action_take_picture">Take a Picture</string>
+    <string name="show_picture_details">Show Details</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings related to login -->
+
+    <string name="text_email">Email</string>
+    <string name="field_email">example@email.com</string>s
+    <string name="text_password">Password</string>
+    <string name="text_or">OR</string>
+    <string name="button_log_in">Log in</string>
+    <string name="button_sign_up">Sign up</string>
+    <string name="text_item_name">Name</string>
+    <string name="choose_file">Choose file</string>
+    <string name="enter_file_name">Enter a name for file</string>
+    <string name="upload">Upload</string>
+    <string name="show_uploads">Show Uploads</string>
+    <string name="back_to_camera">Back to Camera</string>
+    <string name="upload_menu_text">Upload</string>
+    <string name="delete_dialog_title">Delete</string>
+    <string name="delete_dialog_message">Are you sure?</string>
+    <string name="dialog_positive_button">Yes</string>
+    <string name="dialog_negative_button">Cancel</string>
+    <string name="uploads_show">Uploaded Pictures</string>
+    <string name="uploads_main">Upload to Cloud</string>
+    <string name="action_sign_out">Sign Out</string>
+
+</resources>

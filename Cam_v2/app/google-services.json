@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "351568534495",
+    "firebase_url": "https://cam-v2.firebaseio.com",
+    "project_id": "cam-v2",
+    "storage_bucket": "cam-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351568534495:android:8840e4b1b650feb7",
+        "android_client_info": {
+          "package_name": "xoho.com.cam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351568534495-797isjasgg5er2trj778j27fgqfo9u6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xoho.com.cam",
+            "certificate_hash": "f8dafcc3b104215922c81a3f2bb04dfc4c6ae439"
+          }
+        },
+        {
+          "client_id": "351568534495-k0bd73nljhla835ihdcma2mijmlicipn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xoho.com.cam",
+            "certificate_hash": "85e0b1143d21283ebe362b50877e63f12a447092"
+          }
+        },
+        {
+          "client_id": "351568534495-nna9jlgdkk02dh0laem62g8clc9bap72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9sqe30lLQtWk5t1BMOzd_njfWc7SJYKY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351568534495-nna9jlgdkk02dh0laem62g8clc9bap72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
